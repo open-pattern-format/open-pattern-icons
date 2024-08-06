@@ -15,7 +15,9 @@
  *
  */
 
+
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 
 class OpenPatternIcons {
   const OpenPatternIcons._();
@@ -52,6 +54,16 @@ class OpenPatternIcons {
         '$iconPath$name$iconExtension',
         package: 'open_pattern_icons',
       );
+    }
+
+    return null;
+  }
+
+  static Future<Uint8List?> getPatternIconBytes(String name) async {
+    if (iconList.contains(name)) {
+      return (await rootBundle.load(
+        'packages/open_pattern_icons/$iconPath$name$iconExtension'
+      )).buffer.asUint8List();
     }
 
     return null;
