@@ -33,6 +33,8 @@ class OpenPatternIcons {
     "1_1_rc",
     "1_1_rpc",
     "1_1_rsc",
+    "1_3_lc",
+    "1_3_rc",
     "k_tbl",
     "k",
     "m1",
