@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch5">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="swatch4">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="swatch3">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="swatch2">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="swatch1">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="path1-5">
+    <path
+       style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+       d="M 9.8103423,2.8335635 C 8.671998,5.1565812 7.5336537,7.479599 6.3953094,9.8026167 m -3.5513447,0.07081 c 2.308636,0.00447 4.617272,0.00894 6.9259082,0.013324 M 2.7411613,2.8563649 c 1.1555713,2.3151959 2.3111425,4.6303918 3.4667138,6.9455877"
+       id="path7" />
+    <path
+       style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+       d="M 9.6484375,2.3613281 A 0.50006503,0.50006503 0 0 0 9.3613281,2.6132813 l -3.0625,6.2480468 -3.109375,-6.2285156 A 0.50006503,0.50006503 0 0 0 2.5175781,2.4082031 0.50006503,0.50006503 0 0 0 2.2929688,3.0800781 L 5.4375,9.3789063 C 4.573554,9.377238 3.7096509,9.3747197 2.8457031,9.3730469 a 0.50006503,0.50006503 0 0 0 -0.5019531,0.5 0.50006503,0.50006503 0 0 0 0.5,0.5000001 c 2.3086337,0.0045 4.6171349,0.0093 6.9257813,0.01367 A 0.50006503,0.50006503 0 0 0 10.269531,9.8886719 0.50006503,0.50006503 0 0 0 9.7714844,9.3867188 C 8.9003797,9.3850646 8.0293095,9.3825334 7.1582031,9.3808594 L 10.259766,3.0527344 A 0.50006503,0.50006503 0 0 0 10.03125,2.3847656 0.50006503,0.50006503 0 0 0 9.6484375,2.3613281 Z"
+       id="path8" />
+  </g>
+</svg>

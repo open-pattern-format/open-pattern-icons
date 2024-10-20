@@ -16,57 +16,66 @@
  */
 
 
-import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter_svg/svg.dart';
 
 class OpenPatternIcons {
   const OpenPatternIcons._();
 
   static const iconPath = "icons/";
 
-  static const iconExtension = ".png";
+  static const iconExtension = ".svg";
 
   static const iconList = [
     "1_1_lc",
     "1_1_lpc",
-    "1_1_lsc",
     "1_1_rc",
     "1_1_rpc",
-    "1_1_rsc",
+    "1_2_lc",
+    "1_2_rc",
     "1_3_lc",
     "1_3_rc",
+    "2_2_lc",
+    "2_2_rc",
+    "2_3_lc",
+    "2_3_rc",
     "cdd",
     "k_tbl",
     "k",
+    "k2tog",
+    "kfbf",
+    "lli",
     "m1",
     "m1l",
+    "m1p",
     "m1r",
-    "none",
     "p_tbl",
     "p",
+    "rli",
     "sl_kwise_wyif",
     "sl_kwise",
     "sl_wyif",
     "sl",
+    "ssk",
     "yo",
   ];
 
-  static Image? getPatternIcon(String name) {
+  static Future<String?> getPatternIconString(String name) async {
     if (iconList.contains(name)) {
-      return Image.asset(
-        '$iconPath$name$iconExtension',
-        package: 'open_pattern_icons',
-      );
+      return (await rootBundle.loadString(
+        'packages/open_pattern_icons/$iconPath$name$iconExtension'
+      ));
     }
 
     return null;
   }
 
-  static Future<Uint8List?> getPatternIconBytes(String name) async {
+  static SvgLoader? getPatternIcon(String name) {
     if (iconList.contains(name)) {
-      return (await rootBundle.load(
-        'packages/open_pattern_icons/$iconPath$name$iconExtension'
-      )).buffer.asUint8List();
+      return SvgAssetLoader(
+        '$iconPath$name$iconExtension',
+        packageName: 'open_pattern_icons',
+      );
     }
 
     return null;
