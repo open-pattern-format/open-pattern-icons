@@ -27,6 +27,8 @@ class OpenPatternIcons {
   static const iconExtension = ".svg";
 
   static const iconList = [
+    "1_1_1_lc",
+    "1_1_1_rc",
     "1_1_lc",
     "1_1_lpc",
     "1_1_rc",
@@ -43,6 +45,7 @@ class OpenPatternIcons {
     "k_tbl",
     "k",
     "k2tog",
+    "k3tog",
     "kfb",
     "kfbf",
     "lli",
@@ -55,6 +58,8 @@ class OpenPatternIcons {
     "m1r",
     "p_tbl",
     "p",
+    "p3tog_tbl",
+    "p3tog",
     "pfb",
     "pfbf",
     "rli",
