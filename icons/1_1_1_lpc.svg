@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="144"
+   height="48"
+   viewBox="0 0 38.1 12.7"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer2">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9525;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 38.486402,13.06391 C 29.59313,8.545719 20.699858,4.0275278 11.806586,-0.4906633"
+       id="path1"
+       transform="matrix(1.0318567,0,0,1.0167176,-1.5370802,0.04823513)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9525;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 38.486402,13.06391 C 29.59313,8.545719 20.699858,4.0275278 11.806586,-0.4906633"
+       id="path1-3"
+       transform="matrix(1.0318567,0,0,1.0167176,-12.041729,-0.01158227)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.979084;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 38.302403,-0.03066646 C 33.799827,2.2154819 29.29725,4.4616306 24.794674,6.7077792 m -4.980729,2.4846786 c -2.791786,1.3927062 -5.583571,2.7854112 -8.375357,4.1781172"
+       id="path2"
+       transform="matrix(1.0525326,0,0,1.0503592,-1.9658418,-0.70389083)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.979084;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 38.302403,-0.03066646 C 35.584391,1.325237 32.866378,2.6811407 30.148366,4.0370443 m -5.194341,2.591241 C 20.448879,8.8757152 15.943734,11.123145 11.438588,13.370575"
+       id="path2-7"
+       transform="matrix(1.0389963,0,0,1.0418767,-12.214612,-0.45661007)" />
+  </g>
+  <ellipse
+     style="fill:#000000;stroke:#9a58b0;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:0.427481;paint-order:stroke fill markers"
+     id="path1-6"
+     cx="19.102955"
+     cy="1.3604542"
+     rx="0.87702525"
+     ry="0.76739711" />
+</svg>

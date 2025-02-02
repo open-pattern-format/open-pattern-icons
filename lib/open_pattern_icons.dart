@@ -28,7 +28,9 @@ class OpenPatternIcons {
 
   static const iconList = [
     "1_1_1_lc",
+    "1_1_1_lpc",
     "1_1_1_rc",
+    "1_1_1_rpc",
     "1_1_lc",
     "1_1_lpc",
     "1_1_rc",
@@ -69,6 +71,7 @@ class OpenPatternIcons {
     "sl_wyif",
     "sl",
     "ssk",
+    "sssk",
     "yo",
   ];
 
