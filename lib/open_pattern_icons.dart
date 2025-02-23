@@ -76,6 +76,7 @@ class OpenPatternIcons {
     "ssk",
     "ssp",
     "sssk",
+    "sssp",
     "yo",
   ];
 
